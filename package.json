@@ -1,0 +1,9 @@
+{
+  "name": "qq-bot-mcp",
+  "version": "1.0.0",
+  "description": "在 Operit AI 中接入 QQ，实现消息收发、群管理和自定义回复",
+  "main": "qq_bot_mcp.js",
+  "keywords": ["operit", "mcp", "qq", "bot"],
+  "author": "你的名字",
+  "license": "MIT"
+}
